@@ -1,0 +1,3 @@
+Pillow
+opencv-python
+pip install pytesseract
