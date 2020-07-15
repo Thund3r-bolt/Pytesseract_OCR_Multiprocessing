@@ -7,3 +7,6 @@ steps to be done
 3. run install.bat
 4. copy the images and paste in images folder 
 5. run the program
+
+working video:
+https://youtu.be/fg9RZjVeo7w
